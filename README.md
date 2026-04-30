@@ -5,7 +5,7 @@
 ## 👤 Informasi
 - **Nama:** Muhamad Rizal
 - **Repo:** https://github.com/rizalizul/ecommerce-apparel-data-analysis
-- **Dashboard PBIX:** Tersedia pada file `analisis_data_ecom_apparel.ipynb`
+- **Dashboard PBIX:** Tersedia pada file `Executive Sales Overview.pbix`
 
 ---
 
