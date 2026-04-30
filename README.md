@@ -5,7 +5,7 @@
 ## 👤 Informasi
 - **Nama:** Muhamad Rizal
 - **Repo:** https://github.com/rizalizul/ecommerce-apparel-data-analysis
-- **Dashboard PBIX:** Tersedia di folder `dashboard/`
+- **Dashboard PBIX:** Tersedia pada file `analisis_data_ecom_apparel.ipynb`
 
 ---
 
@@ -83,7 +83,7 @@ ecommerce-apparel-data-analysis/
 
 # 6. 🎯 Rekomendasi Aksi Bisnis
 - **Evaluasi Metode COD:** Memberikan ekstra ongkos kirim atau memperketat syarat minimum pembelian khusus untuk metode COD guna menekan cancellation rate.
-- **Optimalisasi Stok:** Fokus memproduksi atau menyetok ulang [Kategori Bintang] menjelang musim liburan atau payday sale.
+- **Optimalisasi Stok:** Fokus memproduksi atau menyetok ulang Jaket Hoodie menjelang musim liburan atau payday sale.
 
 ---
 
